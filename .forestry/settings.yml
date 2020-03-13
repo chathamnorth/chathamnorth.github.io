@@ -6,6 +6,10 @@ webhook_url:
 sections:
 - type: heading
   label: Content
+- type: document
+  path: pages/timeline-md
+  label: Timeline
+  match: "**/*"
 - type: jekyll-posts
   label: Posts
   create: all
@@ -17,13 +21,6 @@ sections:
   templates:
   - landing-page
   - page
-- type: directory
-  path: _projects
-  label: FAQ
-  create: all
-  match: "*"
-  templates:
-  - project
 - type: document
   path: _data/information.yml
   label: Contact Information
