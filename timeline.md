@@ -1,9 +1,9 @@
 ---
 heading: How did we get here?
 sub_heading: ''
-layout: home
+layout: landing-page
 title: Timeline
-banner_image: ''
+banner_image: '/uploads/2018/02/17/college-building.jpg'
 hero_button:
   text: ''
   href: ''
@@ -14,8 +14,10 @@ partners: []
 show_staff: false
 menu:
   navigation:
+    identifier: _timeline
     weight: 6
   footer:
+    identifier: _timeline
     weight: 2
 
 ---
