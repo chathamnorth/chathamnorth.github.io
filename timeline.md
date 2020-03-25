@@ -1,9 +1,9 @@
 ---
 heading: How did we get here?
 sub_heading: ''
-layout: landing-page
+layout: home
 title: Timeline
-banner_image: '/uploads/2018/02/17/college-building.jpg'
+banner_image: ''
 hero_button:
   text: ''
   href: ''
@@ -14,15 +14,11 @@ partners: []
 show_staff: false
 menu:
   navigation:
-    identifier: _timeline
     weight: 6
   footer:
-    identifier: _timeline
     weight: 2
 
 ---
-[2001]()  |  2002  |  2004  |  2005  |  2009  |  2011  |  2012  |  2013  |  2014  |  2015  |  2016  |  2017  |  2018  |  2019  | 2020
-
 **2001**
 
 December 2001 – Newland submitted original application for Conditional Use permit for Briar Chapel as a compact-use community to Chatham County Planning Board.
