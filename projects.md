@@ -1,15 +1,22 @@
 ---
 title: FAQ
 layout: projects
-description: Questions and Answers
-publish_date: '2020-03-24T03:00:00.000+00:00'
+description: Projects by Belkirk College
+publish_date: '2017-11-01T03:00:00.000+00:00'
 menu:
   navigation:
-    identifier: _faq
+    identifier: _projects
     weight: 4
   footer:
-    identifier: _faq
-    url: "/faq/"
+    identifier: _projects
+    url: "/projects/"
     weight: 1
 
 ---
+Question
+
+Answer
+
+Question
+
+Answer
