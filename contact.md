@@ -13,4 +13,4 @@ menu:
 ---
 ## Contact Information
 
-{% include address.html %}
+[stopchathamnorth@gmail.com](mailto:stopchathamnorth@gmail.com)
