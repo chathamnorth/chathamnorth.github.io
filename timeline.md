@@ -3,7 +3,7 @@ heading: How did we get here?
 sub_heading: ''
 layout: landing-page
 title: Timeline
-banner_image: ''
+banner_image: '/uploads/2020/03/25/ivan-bandura-Ac97OqAWDvg-unsplash.jpg'
 hero_button:
   text: ''
   href: ''
