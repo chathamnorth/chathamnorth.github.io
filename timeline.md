@@ -121,6 +121,8 @@ August 20, 2018 – Approval by CC BOC for[ Briar Chapel, Phase 16 North](https:
 
 August 22, 2018 – NCDEQ issues [Notice of Violation & Intent to Enforce](https://edocs.deq.nc.gov/WaterResources/DocView.aspx?id=1062157&searchid=d2b75a66-b319-4cbc-b9c2-6f5900e35ca9&dbid=0&repo=WaterResources) to ONSWC for violations including spraying of effluent on sports courts, sidewalks entering sports courts and benches in picnic area.
 
+August 23, 2018 – Mr. Fitch sends [response to NCDEQ](https://edocs.deq.nc.gov/WaterResources/DocView.aspx?id=715441&dbid=0&repo=WaterResources&searchid=97f6aaee-3b7e-44cc-9a10-574e1a61cdae&cr=1) to a Notice of Violation/Penalty that Fearrington Village received in which he explains the plans that Mr. Fitch and ONSWC are in the process of implementing to move FV’s wastewater treatment to Briar Chapel.
+
 November 5, 2018 – ONSWC Chatham North LLC filed articles of incorporation with the NC Secretary of State as an affiliate of ONSWC.
 
 November 30, 2018 – NC DEQ gives [Permit WQ0040476](https://edocs.deq.nc.gov/WaterResources/DocView.aspx?id=774844&searchid=de462f12-7474-430f-96c8-164deeebb2e5&dbid=0&repo=WaterResources) to extend ONSWC waste water collection for Briar Chapel Phase 12 processing 25,080 gpd.
