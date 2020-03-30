@@ -1,7 +1,7 @@
 ---
 title: Mission Statement
 date: '2017-11-01T03:00:00.000+00:00'
-banner_image: "/uploads/2020/03/30/Screen Shot 2020-03-30 at 2.29.37 PM.png"
+banner_image: ''
 heading: ''
 sub_heading: ''
 layout: landing-page
