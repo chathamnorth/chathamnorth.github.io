@@ -1,20 +1,24 @@
 ---
-heading: How did we get here?
-sub_heading: ''
+heading: ''
+sub_heading: How did we get here?
 layout: page
 title: Timeline
+banner_image: ''
+hero_button:
+  text: ''
+  href: ''
 textline: ''
 services: []
 show_news: false
 partners: []
 show_staff: false
 menu:
-  navigation:
-    identifier: _timeline
-    weight: 6
   footer:
     identifier: _timeline
     weight: 2
+  navigation:
+    identifier: _timeline
+    weight: 6
 
 ---
 **2001**
@@ -180,3 +184,9 @@ January 21, 2020 – Public Staff filed a [Motion to Delay Evidentiary Hearing](
 February 20, 2020 – NCDEQ issued [Notice of Violation and Intent to Enforce](https://edocs.deq.nc.gov/WaterResources/DocView.aspx?id=1104322&dbid=0&repo=WaterResources) to ONSWC for direct discharge of filter backwash water onto Briar Chapel property. This discharge is not covered under the non-discharge permit (WQ0028552).
 
 February 27, 2020 – NCUC filed [Order Rescheduling Hearing and Establishing Deadlines for Prefiling Testimony](https://starw1.ncuc.net/NCUC/ViewFile.aspx?Id=7f4a7197-5fdb-47e1-96c9-251d53023156). Hearing is rescheduled to June 16, 2020.
+
+March 9, 2020 – Envirolink accidently turned on a portion of the spray irrigation system spraying homes on Wildwood Drive. A resident published this[ video](https://www.youtube.com/watch?v=wwKx_AFZmH8&app=desktop) to document the poor quality of the water that came through the system. Another resident document in this [video](https://www.youtube.com/watch?v=Zg4iXMT-6L8&feature=youtu.be) the spray hitting their porch and home in violation of NCDEQ requirements.
+
+March 12, 2020 – Sewage spill was reported near the bridge and walking trail by Hill Creek and Great Ridge Parkway. NCDEQ was called to come inspect.
+
+March 19, 2020 – StopChathamNorth filed a [Petition to Intervene](https://starw1.ncuc.net/NCUC/ViewFile.aspx?Id=dc6fdedf-9277-4b76-9f87-70a0df29d214) with the NCUC to allow Briar Chapel homeowners to be represented at the June 16th hearing.
