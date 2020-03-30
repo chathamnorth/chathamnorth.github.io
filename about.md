@@ -1,8 +1,8 @@
 ---
-title: About
+title: Mission Statement
 date: '2017-11-01T03:00:00.000+00:00'
 banner_image: ''
-heading: Mission Statement
+heading: ''
 sub_heading: ''
 layout: landing-page
 textline: ''
