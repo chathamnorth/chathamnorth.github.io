@@ -15,10 +15,10 @@ show_staff: false
 menu:
   footer:
     identifier: _timeline
-    weight: 2
+    weight: 1
   navigation:
     identifier: _timeline
-    weight: 6
+    weight: 4
 
 ---
 **2001**
