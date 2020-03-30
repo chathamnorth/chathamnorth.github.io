@@ -1,11 +1,12 @@
 ---
 title: Home
-banner_image: "/uploads/2020/03/13/daniel-plan-CLwJUeuGXkY-unsplash.jpg"
+banner_image: "/uploads/2020/03/30/Screen Shot 2020-03-30 at 2.29.02 PM.png"
 layout: landing-page
-heading: ''
+heading: StopChathamNorth
 partners: []
 services: []
-sub_heading: Stop Briar Chapel from becoming regional sewage for North Chatham
+sub_heading: Stop Briar Chapel from becoming regional wastewater treatment plant for
+  North Chatham
 textline: ''
 hero_button:
   text: Learn more
