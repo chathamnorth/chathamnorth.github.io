@@ -187,6 +187,8 @@ February 20, 2020 – NCDEQ issued [Notice of Violation and Intent to Enforce](h
 
 February 27, 2020 – NCUC filed [Order Rescheduling Hearing and Establishing Deadlines for Prefiling Testimony](https://starw1.ncuc.net/NCUC/ViewFile.aspx?Id=7f4a7197-5fdb-47e1-96c9-251d53023156). Hearing is rescheduled to June 16, 2020.
 
+March 2, 2020 – NCDEQ issued [Notice of Violation](https://edocs.deq.nc.gov/WaterResources/DocView.aspx?id=1110807&dbid=0&repo=WaterResources&searchid=afa71d84-5eb3-44fa-9355-2608afaf8e8c) to ONSWC for a sewage spill of 1,000 gallons that occurred at the lift station at Great Ridge Parkway on 2/11/2020.
+
 March 9, 2020 – Envirolink accidently turned on a portion of the spray irrigation system spraying homes on Wildwood Drive. A resident published this[ video](https://www.youtube.com/watch?v=wwKx_AFZmH8&app=desktop) to document the poor quality of the water that came through the system. Another resident document in this [video](https://www.youtube.com/watch?v=Zg4iXMT-6L8&feature=youtu.be) the spray hitting their porch and home in violation of NCDEQ requirements.
 
 March 12, 2020 – Sewage spill was reported near the bridge and walking trail by Hill Creek and Great Ridge Parkway. NCDEQ was called to come inspect.
