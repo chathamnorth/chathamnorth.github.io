@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Email Blast - January 18th 2020
+title: 1 Email Blast - January 18th 2020
 sub_heading: ''
 date: 2020-01-18 22:53:00 +0000
 tags: []
