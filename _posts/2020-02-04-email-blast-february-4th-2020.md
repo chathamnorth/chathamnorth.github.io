@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 4 Email Blast - February 4th 2020
+title: Email Blast - February 4th 2020
 sub_heading: ''
 date: 2020-02-04 21:19:00 +0000
 tags: []
