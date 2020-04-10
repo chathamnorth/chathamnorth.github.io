@@ -196,3 +196,5 @@ March 12, 2020 – Sewage spill was reported near the bridge and walking trail b
 March 19, 2020 – StopChathamNorth filed a [Petition to Intervene](https://starw1.ncuc.net/NCUC/ViewFile.aspx?Id=dc6fdedf-9277-4b76-9f87-70a0df29d214) with the NCUC to allow Briar Chapel homeowners to be represented at the June 16th hearing.
 
 March 31, 2020 – Briar Chapel Community Associated filed a [Petition to Intervene](https://starw1.ncuc.net/NCUC/ViewFile.aspx?Id=fb2aa358-538c-4964-8fd7-587a1861de80) with the NCUC to allow the BCCA to be represented at the June 16th hearing.
+
+April 8, 2020 – Sewage spill was reported in area behind the homes on Serenity Hill cul-de-sac. Originally reported to Envirolink on April 3rd by HOA management company. Documentation of spill was submitted to NCDEQ.
