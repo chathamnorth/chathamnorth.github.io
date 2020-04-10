@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 5 Email Blast - February 8th 2020
+title: Email Blast - February 8th 2020
 sub_heading: ''
 date: 2020-02-08 16:23:00 +0000
 tags: []
