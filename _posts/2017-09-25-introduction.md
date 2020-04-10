@@ -1,5 +1,5 @@
 ---
-title: Email Blast - March 27th 2020
+title: 12 Email Blast - March 27th 2020
 date: 2020-03-27 15:22:56 +0000
 related_posts:
 - _posts/2017-02-12-modern.md
