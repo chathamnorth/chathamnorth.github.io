@@ -1,5 +1,5 @@
 ---
-title: Email Blast - February 28th 2020
+title: 8 Email Blast - February 28th 2020
 layout: post
 date: 2020-02-28 15:24:00 +0000
 sub_heading: ''
