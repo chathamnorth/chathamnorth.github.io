@@ -19,7 +19,6 @@ menu:
   navigation:
     identifier: _timeline
     weight: 4
-published: false
 
 ---
 **2001**
