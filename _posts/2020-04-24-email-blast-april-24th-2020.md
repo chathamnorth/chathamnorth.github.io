@@ -12,7 +12,7 @@ related_posts: []
 
 To the Residents of Briar Chapel,
 
-We hope everyone is staying healthy during this challenging time. Obviously, with social distancing some of our efforts have had to be delayed, but there are some updates that we’d like to share:
+We hope everyone is staying healthy during this challenging time. Obviously, with social distancing some of our efforts have had to be delayed, but there are some updates that we’d like to share: 
 
 **Sewage Spills**
 
