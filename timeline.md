@@ -200,3 +200,5 @@ March 31, 2020 – Briar Chapel Community Associated filed a [Petition to Interv
 April 8, 2020 – Sewage spill was reported in area behind the homes on Serenity Hill cul-de-sac. Originally reported to Envirolink on April 3rd by HOA management company. Documentation of spill was submitted to NCDEQ.
 
 April 16, 2020 – Sewage spill was reported in area near the walking trail by the footbridge behind homes on Hill Creek. Spill is draining into the creek that runs below the footbridge. Documentation of spill was submitted to NCDEQ.
+
+April 22, 2020 – ONSWC-Chatham North and Fitch Creations sign a second [Amended Purchase Agreement](https://drive.google.com/file/d/1DYbYYYhgUTkqt0jzmx-GviGKiAdUsezV/view?usp=sharing) for the purchase of FCI wastewater assets by Chatham North. Notable changes, include no rate increase restrictions on Fearrington Village residents and elimination of tap fees to FCI.
