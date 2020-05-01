@@ -101,7 +101,7 @@ November 30th 2017 – Effluent Easement and Irrigation Agreement – Agreement 
 
 March 7, 2018 – NCDEQ issued [Permit WQCS00372](https://edocs.deq.nc.gov/WaterResources/DocView.aspx?id=642652&searchid=21369eed-9ed8-4690-873d-4d85433ba4ca&dbid=0&repo=WaterResources) which gives ONSWC approval to operate and maintain a waste water collection system to serve Briar Chapel subdivision and any permitted satellite communities through 2026.
 
-March 2018 – Digging began for pipeline to connect ONSWC WWTP to 15/501.
+March 27, 2018 – NCDEQ issued [approval to ONSWC for their plans](https://edocs.deq.nc.gov/WaterResources/DocView.aspx?id=656435&searchid=f42e5ca2-3a54-4d63-b499-bc2317b647d2&dbid=0&repo=WaterResources) to install a pipeline between Briar Chapel WWTP and commercial property (Briar Chapel SD- East at 15/501). Construction started shortly after approval.
 
 May 2018 -- Integra Water acquires 95% ownership of ONSWC with Michael Myers owning remaining 5%. Integra Water is a water and wastewater treatment company based in Birmingham Alabama and 100% owned by John McDonald. ([NCUC Docket W-1300 Sub 52](https://starw1.ncuc.net/NCUC/ViewFile.aspx?Id=0e472416-65d5-49f7-b526-4089d66937dd))
 
