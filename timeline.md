@@ -183,6 +183,8 @@ January 21, 2020 – NCDEQ [Continuing Notice of Violation](https://edocs.deq.nc
 
 January 21, 2020 – Public Staff filed a [Motion to Delay Evidentiary Hearing](https://starw1.ncuc.net/NCUC/ViewFile.aspx?Id=a0a1468d-64e3-4318-bce4-78dbf3bb57db) for at least 150 days.
 
+February 3, 2020 – ONSWC files their [response to testimony](https://starw1.ncuc.net/NCUC/ViewFile.aspx?Id=37756463-c35f-49e8-9474-4ee8c702b291) provided at the January 14th NCUC Public Hearing.
+
 February 20, 2020 – NCDEQ issued [Notice of Violation and Intent to Enforce](https://edocs.deq.nc.gov/WaterResources/DocView.aspx?id=1104322&dbid=0&repo=WaterResources) to ONSWC for direct discharge of filter backwash water onto Briar Chapel property. This discharge is not covered under the non-discharge permit (WQ0028552).
 
 February 27, 2020 – NCUC filed [Order Rescheduling Hearing and Establishing Deadlines for Prefiling Testimony](https://starw1.ncuc.net/NCUC/ViewFile.aspx?Id=7f4a7197-5fdb-47e1-96c9-251d53023156). Hearing is rescheduled to June 16, 2020.
