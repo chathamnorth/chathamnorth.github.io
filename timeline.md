@@ -204,3 +204,7 @@ April 8, 2020 – Sewage spill was reported in area behind the homes on Serenity
 April 16, 2020 – Sewage spill was reported in area near the walking trail by the footbridge behind homes on Hill Creek. Spill is draining into the creek that runs below the footbridge. Documentation of spill was submitted to NCDEQ.
 
 April 22, 2020 – ONSWC-Chatham North and Fitch Creations sign a second [Amended Purchase Agreement](https://drive.google.com/file/d/1DYbYYYhgUTkqt0jzmx-GviGKiAdUsezV/view?usp=sharing) for the purchase of FCI wastewater assets by Chatham North. Notable changes, include no rate increase restrictions on Fearrington Village residents and elimination of tap fees to FCI.
+
+5/1/2020 – 5/4/2020[ Testimony for Lee Bowman](https://starw1.ncuc.net/NCUC/ViewFile.aspx?Id=56a73db5-1dfb-4ea8-822e-3960dd7fbb27), [Testimony for Mike Myers](https://starw1.ncuc.net/NCUC/ViewFile.aspx?Id=85b894e2-2c47-471c-a19a-f934bef2aaac) and [Testimony for John McDonald](https://starw1.ncuc.net/NCUC/ViewFile.aspx?Id=8150d802-5747-44cd-b3ce-ca46891d673a) was filed with the NCUC.
+
+5/7/2020 – Fearrington Homeowners Association filed a [Petition for Intervention](https://starw1.ncuc.net/NCUC/ViewFile.aspx?Id=f2024428-7d2e-46ba-9588-af72a8a3d5a0).
