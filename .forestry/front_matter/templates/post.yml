@@ -39,6 +39,7 @@ fields:
   hidden: true
   default: post
 pages:
+- _posts/2020-05-08-email-blast-may-8th-2020.md
 - _posts/email-blast-april-10th-2020.md
 - _posts/email-blast-april-24th-2020.md
 - _posts/email-blast-february-14th-2020.md
@@ -48,4 +49,3 @@ pages:
 - _posts/email-blast-january-18th-2020.md
 - _posts/email-blast-january-19th-2020.md
 - _posts/email-blast-january-24th-2020.md
-- _posts/email-blast-may-8th-2020.md
