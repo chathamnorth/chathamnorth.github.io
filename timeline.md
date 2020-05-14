@@ -208,3 +208,5 @@ April 22, 2020 – ONSWC-Chatham North and Fitch Creations sign a second [Amende
 5/1/2020 – 5/4/2020[ Testimony for Lee Bowman](https://starw1.ncuc.net/NCUC/ViewFile.aspx?Id=56a73db5-1dfb-4ea8-822e-3960dd7fbb27), [Testimony for Mike Myers](https://starw1.ncuc.net/NCUC/ViewFile.aspx?Id=85b894e2-2c47-471c-a19a-f934bef2aaac) and [Testimony for John McDonald](https://starw1.ncuc.net/NCUC/ViewFile.aspx?Id=8150d802-5747-44cd-b3ce-ca46891d673a) was filed with the NCUC.
 
 5/7/2020 – Fearrington Homeowners Association filed a [Petition for Intervention](https://starw1.ncuc.net/NCUC/ViewFile.aspx?Id=f2024428-7d2e-46ba-9588-af72a8a3d5a0).
+
+5/13/2020 – NCUC Public Staff files a [Motion to Reschedule Evidentiary Hearing](https://starw1.ncuc.net/NCUC/ViewFile.aspx?Id=f17380d7-80ea-4a29-9b66-a14d6ac3301b) to September 2020.
