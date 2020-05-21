@@ -210,3 +210,5 @@ April 22, 2020 – ONSWC-Chatham North and Fitch Creations sign a second [Amende
 5/7/2020 – Fearrington Homeowners Association filed a [Petition for Intervention](https://starw1.ncuc.net/NCUC/ViewFile.aspx?Id=f2024428-7d2e-46ba-9588-af72a8a3d5a0).
 
 5/13/2020 – NCUC Public Staff files a [Motion to Reschedule Evidentiary Hearing](https://starw1.ncuc.net/NCUC/ViewFile.aspx?Id=f17380d7-80ea-4a29-9b66-a14d6ac3301b) to September 2020.
+
+5/20/2020 – NCDEQ issues [Notice of Violation](https://edocs.deq.nc.gov/WaterResources/DocView.aspx?id=1188778&dbid=0&repo=WaterResources) for three sanitary sewer overflows: 3/12/20 (50 gallons), 4/8/20 (75 gallons) and 4/16/20 (315 gallons) due to pipe breaks.
