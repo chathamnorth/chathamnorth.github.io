@@ -71,9 +71,13 @@ Sept 2014 – NCDEQ issues [Permit WQ0028552](https://www.chathamnc.org/home/sho
 
 October 31 2014 – Old North State Water Company purchases Briar Chapel Utilities, LLC. This [purchase agreement](https://starw1.ncuc.net/NCUC/ViewFile.aspx?Id=1145e4cb-8426-4c69-9f72-b0adf45e995a) includes commitment to expand current capacity of 250,000 gpd to 600,000 gpd and acknowledges that permit goes to 750,000 gpd. **Gives ONSWC right to offer any extra capacity to customers outside of the Briar Chapel development and agrees that ONSWC will service any Extended Service Areas developed by Newland. ONSWC also agrees not to offer service to other customers without the written approval of Newland.**
 
+December 2014 – [1st amendment to the Purchase Agreement](https://starw1.ncuc.net/NCUC/ViewFile.aspx?Id=d6400234-5d9b-4772-a6ff-fe53e9efcde5) between BCU, Newland and ONSWC which terminates an earlier Agreement for Operations, Maintenance and Management Services, Billing and Collection Services that BCU had in place – necessary for ONSWC to hire Envirolink for these services.
+
 **2015**
 
 April 20, 2015 -- NCUC grants transfer of Franchise from Briar Chapel Utilities, LLC to Old North State Water Company and approval of rates. ([Docket w-1300 Sub 9](https://starw1.ncuc.net/NCUC/ViewFile.aspx?Id=1145e4cb-8426-4c69-9f72-b0adf45e995a)) & ([Docket W-1230 Sub 1](https://starw1.ncuc.net/NCUC/PSC/DocketDetails.aspx?DocketId=b2a1e327-100d-467e-87e7-64fd1a42d642))
+
+April 30, 2015 – [2nd amendment to the Purchase Agreement](https://starw1.ncuc.net/NCUC/ViewFile.aspx?Id=f14466ce-afe0-4072-bdb2-08608232365a) between Newland and ONSWC which includes an Odor Control Management Plan that requires Newland to pay for and construct odor control measures if certain criteria are met. ONSWC will include costs in future rate increase requests and if approved, will reimburse Newland for these costs.
 
 October 3, 2015 – Fitch Creations applies to NCDEQ for renewal of [Permit NC0043559](https://edocs.deq.nc.gov/WaterResources/DocView.aspx?id=314110&searchid=0118b0b7-2e62-4a6a-92d2-6e5394a058c9&dbid=0&repo=WaterResources) to allow dumping of 387,000gpd of treated waste water into Bush creek. \[Interesting I could not find a copy of the renewed permit, only that they had applied for a renewal and NCDEQ was reviewing it.\]\[Later found renewed permit NC0043559 included in NCUC Docket 661 Sub 9 filed on October 13, 2017 allowing dumping of 500,000gpd of treated waste water into Bush Creek.\]
 
