@@ -19,6 +19,7 @@ menu:
   navigation:
     identifier: _timeline
     weight: 4
+published: false
 
 ---
 **2001**
@@ -217,4 +218,14 @@ April 22, 2020 – ONSWC-Chatham North and Fitch Creations sign a second [Amende
 
 5/20/2020 – NCDEQ issues [Notice of Violation](https://edocs.deq.nc.gov/WaterResources/DocView.aspx?id=1188778&dbid=0&repo=WaterResources) for three sanitary sewer overflows: 3/12/20 (50 gallons), 4/8/20 (75 gallons) and 4/16/20 (315 gallons) due to pipe breaks.
 
-6/22/2020 – NCDEQ posts reports documents three separate sanitary sewer overflows that occurred on 6/22/2020: [4:30pm (100 gallons)](https://edocs.deq.nc.gov/WaterResources/DocView.aspx?id=1235554&dbid=0&repo=WaterResources), [7:00pm (5,000 gallons)](https://edocs.deq.nc.gov/WaterResources/DocView.aspx?id=1235552&dbid=0&repo=WaterResources) and [10:00pm (2,000 gallons)](https://edocs.deq.nc.gov/WaterResources/DocView.aspx?id=1235555&dbid=0&repo=WaterResources).
+7/26/2020 – Major sewage spill reported at Pump Station A ([video1](https://drive.google.com/file/d/1XfoYQMXNV_bHvgUnYbV2OyOg-s07ebkB/view?usp=sharing), [video2](https://drive.google.com/file/d/1nLqOBHYaMSQr4mozY5NjGtaaR0AsrGW_/view?usp=sharing), [video3](https://drive.google.com/file/d/18TVv7KWpkRmhpd_MZakgCW2hC1JpoHM5/view?usp=sharing)), with spill continuing for at least 4.5 hours before Envirolink is able to get equipment to site to begin repair. Spill was later reported by ONSWC as 8,400 gallons that went into Pokeberry Creek.
+
+7/27/2020 – NCDEQ posts [Notice of Violation and Intent to Assess Penalty](https://edocs.deq.nc.gov/WaterResources/DocView.aspx?id=1248531&dbid=0&repo=WaterResources) for three sewage spills that occurred on 6/22/2020: 4:30pm (100 gallons), 7:00pm (5,000 gallons) and 10:00pm (2,000 gallons), with total of 6,000 gallons going into Pokeberry Creek.
+
+7/27/2020 – Owner of Integra Water, John McDonald, sends out [email](https://drive.google.com/file/d/1VOvuDtwv3TTyzSGB_0IzDlMRuhYMAbaj/view?usp=sharing) following major sewage spill explaining that system is in dire need of upgrades to handle the increased size of the Briar Chapel community.
+
+8/4/2020 – Chatham County Planning Board votes unanimously to put request on hold for final plat approval of Briar Chapel Phase 13 Section 3 until Newland can provide sufficient evidence that system is stable and can handle more capacity.
+
+8/10/2020 – Chatham County Board of Commissioners announces that Bold Development has requested that the Williams Corner public hearing be placed on hold due to concerns with recent sewage spill at Briar Chapel. [Post with explanation](https://drive.google.com/file/d/1IUM_2BlOZc6WTK0BR1cbUifYSi82dDzL/view?usp=sharing) from Bold Development owner, Chris Ehrenfeld.
+
+8/14/2020 – NCDEQ posts [Notice of Violation and Intent to Assess Penalty](https://edocs.deq.nc.gov/WaterResources/DocView.aspx?id=1267349&dbid=0&repo=WaterResources) for two sewage spills that occurred 7/23/2020 (2,000 gallons from manhole by Pump Station B) and 7/26/2020 (8,400 gallons from force main by Pump Station A into Pokeberry Creek).
