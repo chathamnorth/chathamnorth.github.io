@@ -19,7 +19,6 @@ menu:
   navigation:
     identifier: _timeline
     weight: 4
-published: false
 
 ---
 **2001**
@@ -229,3 +228,5 @@ April 22, 2020 – ONSWC-Chatham North and Fitch Creations sign a second [Amende
 8/10/2020 – Chatham County Board of Commissioners announces that Bold Development has requested that the Williams Corner public hearing be placed on hold due to concerns with recent sewage spill at Briar Chapel. [Post with explanation](https://drive.google.com/file/d/1IUM_2BlOZc6WTK0BR1cbUifYSi82dDzL/view?usp=sharing) from Bold Development owner, Chris Ehrenfeld.
 
 8/14/2020 – NCDEQ posts [Notice of Violation and Intent to Assess Penalty](https://edocs.deq.nc.gov/WaterResources/DocView.aspx?id=1267349&dbid=0&repo=WaterResources) for two sewage spills that occurred 7/23/2020 (2,000 gallons from manhole by Pump Station B) and 7/26/2020 (8,400 gallons from force main by Pump Station A into Pokeberry Creek).
+
+August 20th, 2020 – Sewage spill reported at 6pm at Pump Station E on Quarter Gate Trace due to mechanical failure. ONSWC self-reported volume of spill at 800 gallons with 500 gallons going directly into surface waters.
