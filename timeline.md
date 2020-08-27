@@ -103,7 +103,7 @@ November 30th 2017 – Effluent Easement and Irrigation Agreement – Agreement 
 
 **2018**
 
-March 7, 2018 – NCDEQ issued [Permit WQCS00372](https://edocs.deq.nc.gov/WaterResources/DocView.aspx?id=642652&searchid=21369eed-9ed8-4690-873d-4d85433ba4ca&dbid=0&repo=WaterResources) which gives ONSWC approval to operate and maintain a waste water collection system to serve Briar Chapel subdivision and any permitted satellite communities through 2026.
+March 7, 2018 – NCDEQ issued [Permit WQCS00372](https://edocs.deq.nc.gov/WaterResources/DocView.aspx?id=642652&searchid=21369eed-9ed8-4690-873d-4d85433ba4ca&dbid=0&repo=WaterResources) which gives ONSWC approval to operate and maintain a waste water collection system to serve Briar Chapel subdivision and any permitted satellite communities through 2026.  This permit also included the forcemain pipeline and SD East pump station that was constructed between BC WWTP and SD East at 15/501.
 
 March 27, 2018 – Chatham County Watershed Protection Division issued [approval to ONSWC for their plans](https://edocs.deq.nc.gov/WaterResources/DocView.aspx?id=656435&searchid=f42e5ca2-3a54-4d63-b499-bc2317b647d2&dbid=0&repo=WaterResources) to install a pipeline between Briar Chapel WWTP and commercial property (Briar Chapel SD- East at 15/501). Construction started shortly after approval.
 
