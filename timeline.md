@@ -234,3 +234,5 @@ August 20th, 2020 – Sewage spill reported at 6pm at Pump Station E on Quarter 
 September 1st, 2020 – Chatham County Planning Board votes unanimously to deny final plat approval of Briar Chapel Phase 13 Section 3 and Phase 14 based on questions surrounding the capacity and stability of the WW treatment system.
 
 September 14th, 2020 – NCDEQ posts [Notice of Violation and Intent to Assess Penalty](https://edocs.deq.nc.gov/WaterResources/DocView.aspx?id=1295022&dbid=0&repo=WaterResources) for a sewage spill that occurred 8/20/2020 (800 gallons from Pump Station E) due to pump station failure.
+
+September 26th, 2020 – Sewage spill reported on 9/26/2020 @ 10:45am from a manhole on Great Ridge Parkway across from the dog park and Pump Station A. Spill was due to mechanical failure at Pump Station A.
