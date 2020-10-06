@@ -135,7 +135,7 @@ December 21, 2018 – NCDEQ issues [Permit WQ0040540](https://edocs.deq.nc.gov/W
 
 **2019**
 
-January 3rd, 2019 – Asset Purchase Agreement signed where ONSWC-Chatham North purchases the Briar Chapel Waste Water Assets from ONSWC for $206,000. \[Referred to in Michael Myer’s testimony dated December 19th, 2019 to the NCUC.\]
+January 3rd, 2019 – [3rd Amendment of Asset Purchase Agreement](https://starw1.ncuc.net/NCUC/ViewFile.aspx?Id=728ec34a-663e-4850-9d10-36c69e554c62) signed where ONSWC-Chatham North purchases the Briar Chapel Waste Water Assets from ONSWC for $206,000. \[Referred to in Michael Myer’s testimony dated December 19th, 2019 to the NCUC.\]
 
 February 2019 – CC BOC approval of Briar Chapel Phase 13, Section 3 adding 59 lots off Great Ridge Parkway. Application references [NCDEQ approval](https://www.chathamnc.org/home/showdocument?id=42773) from Sept 2014 for use of existing capacity at Briar Chapel waste water facility.
 
