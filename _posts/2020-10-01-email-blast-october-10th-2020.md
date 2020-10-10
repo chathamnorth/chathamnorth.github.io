@@ -2,7 +2,7 @@
 layout: post
 title: Email Blast - October 10th, 2020
 sub_heading: ''
-date: 2020-10-01 13:26:00 +0000
+date: 2020-10-10 13:26:00 +0000
 tags: []
 banner_image: ''
 related_posts: []
