@@ -236,3 +236,7 @@ September 1st, 2020 – Chatham County Planning Board votes unanimously to deny 
 September 14th, 2020 – NCDEQ posts [Notice of Violation and Intent to Assess Penalty](https://edocs.deq.nc.gov/WaterResources/DocView.aspx?id=1295022&dbid=0&repo=WaterResources) for a sewage spill that occurred 8/20/2020 (800 gallons from Pump Station E) due to pump station failure.
 
 September 26th, 2020 – Sewage spill reported on 9/26/2020 @ 10:45am from a manhole on Great Ridge Parkway across from the dog park and Pump Station A. Spill was due to mechanical failure at Pump Station A.
+
+October 5th, 2020 – CC BOC meeting agenda items by Newland and ONSWC are delayed until October 19th as negotiations between Briar Chapel HOA Board, Newland and ONSWC are announced. Mentions StopChathamNorth as part of these negotiations, but we were never included in negotiations with Newland or ONSWC. We had one meeting to present our concerns to the BC HOA Board and were told they were not prepared to renegotiate.
+
+October 13th, 2020 – NCDEQ posts a [Permit Modification request for WQ0028552](https://edocs.deq.nc.gov/WaterResources/DocView.aspx?id=1317251&dbid=0&repo=WaterResources) calling for expansion of the spray irrigation fields in Briar Chapel by 120,150gpd. New spray irrigation areas are located west of Twin Lakes Golf Course, south of Western Pond and west of Rosebank Drive.
