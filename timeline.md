@@ -217,6 +217,8 @@ April 22, 2020 – ONSWC-Chatham North and Fitch Creations sign a second [Amende
 
 5/20/2020 – NCDEQ issues [Notice of Violation](https://edocs.deq.nc.gov/WaterResources/DocView.aspx?id=1188778&dbid=0&repo=WaterResources) for three sanitary sewer overflows: 3/12/20 (50 gallons), 4/8/20 (75 gallons) and 4/16/20 (315 gallons) due to pipe breaks.
 
+July 13th, 2020 – NCDEQ issues [Permit WQ0041710](https://edocs.deq.nc.gov/WaterResources/DocView.aspx?id=1238225&dbid=0&repo=WaterResources&searchid=f73b2108-4410-46c4-ae56-889d01f0e260&cr=1) to extend collection system to add 51,140gpd for the 200-unit apartments (The Perch) and a clubhouse.
+
 7/26/2020 – Major sewage spill reported at Pump Station A ([video1](/uploads/2020/08/24/img_1006.mov), [video2](/uploads/2020/08/24/img_1007.mov), [video3](/uploads/2020/08/24/img_1008.mov)), with spill continuing for at least 4.5 hours before Envirolink is able to get equipment to site to begin repair. Spill was later reported by ONSWC as 8,400 gallons that went into Pokeberry Creek.
 
 7/27/2020 – NCDEQ posts [Notice of Violation and Intent to Assess Penalty](https://edocs.deq.nc.gov/WaterResources/DocView.aspx?id=1248531&dbid=0&repo=WaterResources) for three sewage spills that occurred on 6/22/2020: 4:30pm (100 gallons), 7:00pm (5,000 gallons) and 10:00pm (2,000 gallons), with total of 6,000 gallons going into Pokeberry Creek.
