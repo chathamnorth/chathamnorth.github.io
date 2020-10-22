@@ -246,3 +246,5 @@ October 13th, 2020 – NCDEQ posts a [Permit Modification request for WQ0028552]
 October 19th, 2020 – Briar Chapel HOA signs a [Tri-Party Agreement](https://drive.google.com/file/d/1nnFR5gEeLJQ08o-mgye5a7krOFOMKjbA/view?usp=sharing) with Newland and ONSWC.
 
 October 19th, 2020 – CC BOC meeting with presentations by Newland, ONSWC and SCN. As part of an agreement between the BC HOA / Newland / ONSWC, Tom Speer (BC HOA President) agrees to support Newland’s request for two final plat approvals. CC BOC decide to postpone their decision until the November CC BOC meeting.
+
+October 20th, 2020 – ONSWC files [Notice of Withdrawal of Applications to Transfer Utilities](https://starw1.ncuc.net/NCUC/ViewFile.aspx?Id=39482722-adfe-4b23-ae58-992658ef7304) which will officially stop the request to connect the Briar Chapel WW system to Fearrington Village WW system and surrounding communities.
