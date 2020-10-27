@@ -65,7 +65,7 @@ February 17th 2012 – Newland submits [Application for amendment to the Briar C
 
 March 2014 – Meeting to review plans for a Conservation subdivision next to Briar Chapel (with Lee Bowman, Nick Robinson and Lynn Richardson (CC) – sounds like Encore Phase I. No mention of proximity to BC waste water facility or effluent spraying in yards. \[Paper document: Exhibit 4\]
 
-April 2014 - CC BOC approves [modification](http://chathamnc.granicus.com/MediaPlayer.php?view_id=2&clip_id=270&meta_id=15933) requested by Newland to the Compact Community Ordinance allowing treated waste water from within a compact community, like Briar Chapel to be transferred outside of the community to another development.
+June 14, 2016 – CC BOC approves [modification requested by Newland to the Compact Community Ordinance](http://cms6ftp.visioninternet.com/chathamcountync/planning%20board/attachments/2014/6-16-14_BOC/Ordinances_Resolutions/Newland_CCO_Text_Amendments_Signed_Ord_6-14-16.pdf) allowing the WWTP to serve surrounding areas outside of the compact community and reduction of up to 100% of buffers between communities if mutually agreed to by owners. This later used by Newland to allow subdivisions outside of Briar Chapel to be added to the Briar Chapel WWTP and significant reduction in buffers between homes in Encore/US Steel property and the WWTP.
 
 Sept 2014 – NCDEQ issues [Permit WQ0028552](https://www.chathamnc.org/home/showdocument?id=42773) to Briar Chapel Utilities, LLC to operate and maintain a waste water treatment and disposal system. Waste water treatment permitted for 250,000 gpd using extended aeration treatment system and permitted to add 2 more 250,000gpd treatment units. \[Are these the phase 2 and 3 mentioned in the application?\]
 
