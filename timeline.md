@@ -249,4 +249,4 @@ October 19th, 2020 – CC BOC meeting with presentations by Newland, ONSWC and S
 
 October 20th, 2020 – ONSWC files [Notice of Withdrawal of Applications to Transfer Utilities](https://starw1.ncuc.net/NCUC/ViewFile.aspx?Id=39482722-adfe-4b23-ae58-992658ef7304) which will officially stop the request to connect the Briar Chapel WW system to Fearrington Village WW system and surrounding communities.
 
-October 31st, 2020 – Major sewage spill first reported to Integra Water on 10/30/2020 at 6:27pm. Force main pipe break along edge of dog park, just outside of Pump Station A on Great Ridge Parkway. Operator did not arrive until 10/31 at 8:30am.
+October 31st, 2020 – Major sewage spill first reported to Integra Water on 10/30/2020 at 6:27pm. Force main pipe break along edge of dog park, just outside of Pump Station A on Great Ridge Parkway, resulting in 5,000 gallons spilled with 300 gallons flowing into Pokeberry Creek.
