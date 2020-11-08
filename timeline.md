@@ -19,6 +19,7 @@ menu:
   navigation:
     identifier: _timeline
     weight: 4
+published: false
 
 ---
 **2001**
@@ -248,5 +249,7 @@ October 19th, 2020 – Briar Chapel HOA signs a [Tri-Party Agreement](https://dr
 October 19th, 2020 – CC BOC meeting with presentations by Newland, ONSWC and SCN. As part of an agreement between the BC HOA / Newland / ONSWC, Tom Speer (BC HOA President) agrees to support Newland’s request for two final plat approvals. CC BOC decide to postpone their decision until the November CC BOC meeting.
 
 October 20th, 2020 – ONSWC files [Notice of Withdrawal of Applications to Transfer Utilities](https://starw1.ncuc.net/NCUC/ViewFile.aspx?Id=39482722-adfe-4b23-ae58-992658ef7304) which will officially stop the request to connect the Briar Chapel WW system to Fearrington Village WW system and surrounding communities.
+
+October 22, 2020 - NCDEQ issues [Notice of Violation](https://edocs.deq.nc.gov/WaterResources/DocView.aspx?id=1327922&dbid=0&repo=WaterResources) for 9/26/20 sewage spill from manhole on Great Ridge Parkway near Pump Station A of 200 gallons due to pump station failure.
 
 October 31st, 2020 – Major sewage spill first reported to Integra Water on 10/30/2020 at 6:27pm. Force main pipe break along edge of dog park, just outside of Pump Station A on Great Ridge Parkway, resulting in 5,000 gallons spilled with 300 gallons flowing into Pokeberry Creek.
