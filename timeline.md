@@ -19,7 +19,6 @@ menu:
   navigation:
     identifier: _timeline
     weight: 4
-published: false
 
 ---
 **2001**
@@ -253,3 +252,5 @@ October 20th, 2020 – ONSWC files [Notice of Withdrawal of Applications to Tran
 October 22, 2020 - NCDEQ issues [Notice of Violation](https://edocs.deq.nc.gov/WaterResources/DocView.aspx?id=1327922&dbid=0&repo=WaterResources) for 9/26/20 sewage spill from manhole on Great Ridge Parkway near Pump Station A of 200 gallons due to pump station failure.
 
 October 31st, 2020 – Major sewage spill first reported to Integra Water on 10/30/2020 at 6:27pm. Force main pipe break along edge of dog park, just outside of Pump Station A on Great Ridge Parkway, resulting in 5,000 gallons spilled with 300 gallons flowing into Pokeberry Creek.
+
+November 9th, 2020 – Sewage spill reported on SD East forcemain behind Beacon Ridge due to pipebreak, resulting in 100 gallons of sewage spilled.
