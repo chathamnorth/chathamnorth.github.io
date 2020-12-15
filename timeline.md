@@ -254,3 +254,5 @@ October 22, 2020 - NCDEQ issues [Notice of Violation](https://edocs.deq.nc.gov/W
 October 31st, 2020 – Major sewage spill first reported to Integra Water on 10/30/2020 at 6:27pm. Force main pipe break along edge of dog park, just outside of Pump Station A on Great Ridge Parkway, resulting in 5,000 gallons spilled with 300 gallons flowing into Pokeberry Creek.
 
 November 9th, 2020 – Sewage spill reported on SD East forcemain behind Beacon Ridge due to pipebreak, resulting in 100 gallons of sewage spilled.
+
+November 17th, 2020 – NCDEQ issues [Notice of Violation & Intent to Issue Civil Penalty](https://edocs.deq.nc.gov/WaterResources/DocView.aspx?id=1394081&dbid=0&repo=WaterResources) for sewage spill that occurred 10/31/2020, resulting in 6,167 gallons spilled with 300 gallons going into Pokeberry creek, due to pipe break to force main A along edge of dog park on Great Ridge Parkway.
