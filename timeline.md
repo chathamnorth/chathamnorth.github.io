@@ -39,6 +39,10 @@ Summer 2004 – Newland submits another [Application for Conditional Use for Bri
 
 April 29, 2005 – NCDEQ issues [original permit WQ0028552](https://edocs.deq.nc.gov/WaterResources/DocView.aspx?id=749113&searchid=d2b75a66-b319-4cbc-b9c2-6f5900e35ca9&dbid=0&repo=WaterResources) to Briar Chapel Utilities, LLC for the construction and operation of a waste water treatment plant and reclaimed water utilization system. Approved for 750,000gpd to be constructed in 3 phases of 250,000gpd each.
 
+**2007**
+
+November 16, 2007 -- [Briar Chapel Covenants, Conditions and Restrictions](https://drive.google.com/file/d/1s7Fo6xKrkoCACfKauN0EEg3DdUpdvXXs/view?usp=sharing) (Pg. 61, Section 16.3.a) discloses that wastewater systems in the community may release odors detectable by members of the community. Further, this document states that Newland, the builders, the BCCA (HOA) will not have any duty to abate these odors and will not be liable for any claims of damages arising from these odors.
+
 **2009**
 
 October 30th, 2009 – Effluent Easement and Irrigation Agreement between Briar Chapel, LLC and Briar Chapel Utilities, LLC extending easement and irrigations rights to Briar Chapel Utilities, LLC. \[Paper document – Exhibit 1\]
