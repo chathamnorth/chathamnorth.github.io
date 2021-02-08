@@ -264,3 +264,5 @@ November 9th, 2020 – Sewage spill reported on SD East forcemain behind Beacon 
 November 17th, 2020 – NCDEQ issues [Notice of Violation & Intent to Issue Civil Penalty](https://edocs.deq.nc.gov/WaterResources/DocView.aspx?id=1394081&dbid=0&repo=WaterResources) for sewage spill that occurred 10/31/2020, resulting in 6,167 gallons spilled with 300 gallons going into Pokeberry creek, due to pipe break to force main A along edge of dog park on Great Ridge Parkway.
 
 November 24th, 2020 – NCDEQ issues [Permit WQ0029867](https://edocs.deq.nc.gov/WaterResources/DocView.aspx?id=1368433&dbid=0&repo=WaterResources) approving construction of a pipeline from Pump Station A to the SD East force main, bypassing problematic force main A.
+
+February 3rd, 2021 – BCCA announces that ONSWC has stopped approving new sewer connections to new homes under construction until the spray field permits are approved or other previously permitted spray areas are certified.
