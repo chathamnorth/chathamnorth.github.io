@@ -31,7 +31,7 @@ May 2002 – CC BOC denied the request. They wanted criteria established for com
 
 **2004**
 
-April 2004 – CC BOC approved [Compact Communities Ordinance](https://www.chathamnc.org/home/showdocument?id=23780) which has been updated multiple times since. On page 5, calls for compact communities to utilize centralized waste water facilities on-site or existing, previously permitted off-site facilities.
+April 2004 – CC BOC approved [Compact Communities Ordinance](https://www.chathamnc.org/home/showdocument?id=31803) which has been updated multiple times since. On page 5, calls for compact communities to utilize centralized waste water facilities on-site or existing, previously permitted off-site facilities.
 
 Summer 2004 – Newland submits another [Application for Conditional Use for Briar Chapel](http://cms6ftp.visioninternet.com/chathamcountync/planning%20board/attachments/2004/BriarChapel/TableOfContents.htm) based on new Compact Communities Ordinance. Note [initial plan](http://cms6ftp.visioninternet.com/chathamcountync/planning%20board/attachments/2004/BriarChapel/Reclamation%20Facility%20Explanation%20Report.pdf) for waste water facility is to be built in three phases, with each phase adding 250,000 gpd capacity. Facility is owned and operated by Briar Chapel Utilities, LLC.
 
@@ -215,13 +215,15 @@ April 16, 2020 – Sewage spill was reported in area near the walking trail by t
 
 April 22, 2020 – ONSWC-Chatham North and Fitch Creations sign a second [Amended Purchase Agreement](https://drive.google.com/file/d/1DYbYYYhgUTkqt0jzmx-GviGKiAdUsezV/view?usp=sharing) for the purchase of FCI wastewater assets by Chatham North. Notable changes, include no rate increase restrictions on Fearrington Village residents and elimination of tap fees to FCI.
 
-5/1/2020 – 5/4/2020[ Testimony for Lee Bowman](https://starw1.ncuc.net/NCUC/ViewFile.aspx?Id=56a73db5-1dfb-4ea8-822e-3960dd7fbb27), [Testimony for Mike Myers](https://starw1.ncuc.net/NCUC/ViewFile.aspx?Id=85b894e2-2c47-471c-a19a-f934bef2aaac) and [Testimony for John McDonald](https://starw1.ncuc.net/NCUC/ViewFile.aspx?Id=8150d802-5747-44cd-b3ce-ca46891d673a) was filed with the NCUC.
+May 1st, 2020 – 5/4/2020[ Testimony for Lee Bowman](https://starw1.ncuc.net/NCUC/ViewFile.aspx?Id=56a73db5-1dfb-4ea8-822e-3960dd7fbb27), [Testimony for Mike Myers](https://starw1.ncuc.net/NCUC/ViewFile.aspx?Id=85b894e2-2c47-471c-a19a-f934bef2aaac) and [Testimony for John McDonald](https://starw1.ncuc.net/NCUC/ViewFile.aspx?Id=8150d802-5747-44cd-b3ce-ca46891d673a) was filed with the NCUC.
 
-5/7/2020 – Fearrington Homeowners Association filed a [Petition for Intervention](https://starw1.ncuc.net/NCUC/ViewFile.aspx?Id=f2024428-7d2e-46ba-9588-af72a8a3d5a0).
+May 7th, 2020 – Fearrington Homeowners Association filed a [Petition for Intervention](https://starw1.ncuc.net/NCUC/ViewFile.aspx?Id=f2024428-7d2e-46ba-9588-af72a8a3d5a0).
 
-5/13/2020 – NCUC Public Staff files a [Motion to Reschedule Evidentiary Hearing](https://starw1.ncuc.net/NCUC/ViewFile.aspx?Id=f17380d7-80ea-4a29-9b66-a14d6ac3301b) to September 2020.
+May 13th, 2020 – NCUC Public Staff files a [Motion to Reschedule Evidentiary Hearing](https://starw1.ncuc.net/NCUC/ViewFile.aspx?Id=f17380d7-80ea-4a29-9b66-a14d6ac3301b) to September 2020.
 
-5/20/2020 – NCDEQ issues [Notice of Violation](https://edocs.deq.nc.gov/WaterResources/DocView.aspx?id=1188778&dbid=0&repo=WaterResources) for three sanitary sewer overflows: 3/12/20 (50 gallons), 4/8/20 (75 gallons) and 4/16/20 (315 gallons) due to pipe breaks.
+May 20th, 2020 – NCDEQ issues [Notice of Violation](https://edocs.deq.nc.gov/WaterResources/DocView.aspx?id=1188778&dbid=0&repo=WaterResources) for three sanitary sewer overflows: 3/12/20 (50 gallons), 4/8/20 (75 gallons) and 4/16/20 (315 gallons) due to pipe breaks.
+
+June 15th, 2020 – NCDEQ issues revised [Permit WQ0028552](https://edocs.deq.nc.gov/WaterResources/DocView.aspx?id=1213615&dbid=0&repo=WaterResources) adding sodium hydroxide feed to the spray irrigation and reducing the spray irrigation capacity to 216,727 gpd (which later changes to 199,900 gpd on nDMR reports).
 
 July 13th, 2020 – NCDEQ issues [Permit WQ0041710](https://edocs.deq.nc.gov/WaterResources/DocView.aspx?id=1238225&dbid=0&repo=WaterResources&searchid=f73b2108-4410-46c4-ae56-889d01f0e260&cr=1) to extend collection system to add 51,140gpd for the 200-unit apartments (The Perch) and a clubhouse.
 
@@ -265,4 +267,14 @@ November 17th, 2020 – NCDEQ issues [Notice of Violation & Intent to Issue Civi
 
 November 24th, 2020 – NCDEQ issues [Permit WQ0029867](https://edocs.deq.nc.gov/WaterResources/DocView.aspx?id=1368433&dbid=0&repo=WaterResources) approving construction of a pipeline from Pump Station A to the SD East force main, bypassing problematic force main A.
 
+December 29th, 2020 – Large spray irrigation spill (self-reported at over 100,000 gallons) due to a spray irrigation submain pipe break behind homes on Serenity/Hill Creek that flowed into tributary of Pokeberry Creek and storm water pond.
+
+January 14th, 2021 – NCDEQ issues renewal for [Permit WQ0028552](https://edocs.deq.nc.gov/WaterResources/DocView.aspx?id=1478116&dbid=0&repo=WaterResources) approving Western retention pond for reclaimed water and increases capacity to 206,726gpd based on maximum capacity of the spray irrigation system.
+
+January 18th, 2021 – Sludge spill from tanker truck at bottom of road exiting the WWTP onto Boulder Point Drive.
+
+January 20th, 2021 – Large spray irrigation spill due to pipe break during construction behind homes on Tyner Loop.
+
 February 3rd, 2021 – BCCA announces that ONSWC has stopped approving new sewer connections to new homes under construction until the spray field permits are approved or other previously permitted spray areas are certified.
+
+February 15th, 2021 – NCDEQ issues renewal for [Permit WQ0028552](https://edocs.deq.nc.gov/WaterResources/DocView.aspx?id=1620516&dbid=0&repo=WaterResources) which increases spray irrigation capacity to 237,535 gpd with the addition of three new spray fields that have been certified. With this approval, ONSWC begins approving new sewer connections to the Briar Chapel WWTP.
