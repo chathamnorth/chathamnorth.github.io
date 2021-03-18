@@ -104,7 +104,7 @@ Here’s the lastest information we have on the status of the work outlined in t
 
 · On 1/4/2021, SCN sent a l[etter to our HOA Board with a list of questions](https://drive.google.com/file/d/1b69CIgZT0lQPoHUObviUVhXGh4NSvtKg/view?usp=sharing) that we asked them to address on behalf of residents at their next Tri-Party Council meeting. At the BCCA Public Board Meeting, the BCCA confirmed they have presented the questions to Newland and ONSWC and have asked them to respond to these questions by their next Council meeting (February 9th).
 
-The latest Tri-Party Council meeting was held on January 12th 2021. No information was yet been posted from that meeting, but the BCCA did post the [minutes from the December 8th, 2020 Tri-Party Council meeting](https://drive.google.com/file/d/1rWGlNPMl6AYCRuv4T2leiMrn1QIuiRbf/view?usp=sharing). A couple of items to note from this meeting:
+The latest Tri-Party Council meeting was held on January 12th 2021. No information was yet been posted from that meeting, but the BCCA did post the [minutes from the December 8th, 2020 Tri-Party Council meeting](https://www.briarchapellife.com/ResourceCenter/Download/44435/tpc%20mtg%20report%2012821%20final?doc_id=2863095&print=1&view=1). A couple of items to note from this meeting:
 
 · BCCA confirmed they plan to publish test results from the irrigation (reclaimed water) testing that was done last year. They have asked ONSWC to provide their test results as well.
 

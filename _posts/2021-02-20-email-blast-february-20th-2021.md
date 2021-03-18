@@ -34,7 +34,7 @@ In the ONSWC testing, 590 tests were performed and **just over 17% of the test r
 
 The BCCA concluded, “While there were a few transient exceedances of the NCDEQ guidelines, the general lack of exceedances suggests that the irrigation water at the sprinkler heads did not represent a hazard to human health.” The BCCA plans to continue testing in 2021.
 
-([Summary Report](https://drive.google.com/file/d/11sDre2sXVYjGduoGjCHxIwovHY0owVqF/view?usp=sharing), [ONSWC Test Results](https://drive.google.com/file/d/1-mUg6YoqfWfZtH1yxXYyfO-k3tlmBeXf/view?usp=sharing), [Agri-Waste Technologies Test Results/Report](https://drive.google.com/file/d/1g-HqNj7pgTWIoEBCFEMbK83eDGT44488/view?usp=sharing))
+([Summary Report](https://www.briarchapellife.com/ResourceCenter/Download/44435/results%20of%20irrigation%20water%20testing%20in%20briar%20chapel?doc_id=2878081&print=1&view=1), [ONSWC Test Results](https://www.briarchapellife.com/ResourceCenter/Download/44435/annex%201%20onswc%20sampling%20data%202020?doc_id=2878182&print=1&view=1), [Agri-Waste Technologies Test Results/Report](https://www.briarchapellife.com/ResourceCenter/Download/44435/annex%202%20bccaawt%20final%20report?doc_id=2878103&print=1&view=1))
 
 **Meetings with Chatham County Commissioners**
 
