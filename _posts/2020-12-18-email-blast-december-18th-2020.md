@@ -24,7 +24,7 @@ Based on input from NCDEQ and John McDonald (Integra Water) we have the followin
 
 · Amanda Grenier, the new operator, has been catching up on maintenance at the plant to address odor control. Evoqua is also working with ONSWC on tuning of the odor control system, though the odor control system is not yet implemented at all of our pump stations. We continue to receive odor complaints, but we have seen some decline in the volume of complaints since Thanksgiving.
 
-· The Tri-Party Council had their first meeting on 11/18/20 and their second meeting on 12/8/20. Here’s [the minutes from the first meeting](https://drive.google.com/file/d/1K5bEGYsH7KGm9x2-Z6SBYwHOtOoJauc3/view?usp=sharing). Note, they have not included any resident representatives on this council. In addition, ONSWC discontinued testing of the spray irrigation. To date, no results from the ONSWC or HOA testing of the spray irrigation system have been shared with residents. We feel testing should continue until the data clearly shows that the spray irrigation is safe.
+· The Tri-Party Council had their first meeting on 11/18/20 and their second meeting on 12/8/20. Here’s [the minutes from the first meeting](https://www.briarchapellife.com/ResourceCenter/Download/44435/tri%20party%20council%20meeting%20notes_11_1820?doc_id=2852227&print=1&view=1). Note, they have not included any resident representatives on this council. In addition, ONSWC discontinued testing of the spray irrigation. To date, no results from the ONSWC or HOA testing of the spray irrigation system have been shared with residents. We feel testing should continue until the data clearly shows that the spray irrigation is safe.
 
 **NCDEQ Posts another NOV**
 
