@@ -20,11 +20,11 @@ On February 19th SCN sent a request to our BCCA board members requesting a virtu
 
 The Tri-Party Town Hall is scheduled for Monday, March 8th at 7pm to address Briar Chapel’s wastewater issues. Panelists will include John McDonald (Owner of Integra Water/ONSWC) and Amanda Grenier (ORC/Lead Operator of the WWTP) of ONSWC, Tanya Matzen (VP of Operations for Newland) of NNP Briar Chapel, and Jerry Cole, Cathy Washburn, and Tom Speer of BCCA.
 
-The agenda for the meeting will be: 
+The agenda for the meeting will be:
 
-7:00 – 7:15pm – ONSWC Presentation 
+7:00 – 7:15pm – ONSWC Presentation
 
-7:15 – 7:45pm – Panelist Q&A  
+7:15 – 7:45pm – Panelist Q&A
 
 7:45 – 8:00pm – Public Q&A (Residents can submit questions)
 
@@ -74,7 +74,7 @@ Here’s the latest information we have on the status of the work outlined in th
 
 · NCDEQ is reviewing three additional permit modification requests from ONSWC that would convert some existing spray irrigation from potable to reclaimed water (e.g. Encore residential homes, homes in the Wildwind area and Sports Courts) and allows construction of some additional spray irrigation fields (area north and south of Western pond and in common areas within Encore and behind Cliffdale homes). If approved, this would increase our spray irrigation capacity to 521,454 gpd.
 
-· The Tri-Party Council met on February 9th 2021. The [minutes for this meeting](https://drive.google.com/file/d/1xVQWDgY5sfXblUw-mOT0_bXgChfRtFeT/view?usp=sharing) have been posted. The next meeting is scheduled on March 9th 2021.
+· The Tri-Party Council met on February 9th 2021. The [minutes for this meeting](https://www.briarchapellife.com/ResourceCenter/Download/44435/2021029%20tpc%20mtg%20report%20final?doc_id=2881337&print=1&view=1) have been posted. The next meeting is scheduled on March 9th 2021.
 
 **Documenting our Concerns**
 

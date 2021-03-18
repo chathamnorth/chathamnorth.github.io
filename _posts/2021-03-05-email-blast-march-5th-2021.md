@@ -26,7 +26,7 @@ We did not see a notice to residents on this spill from either Integra Water/ONS
 
 **ONSWC Publishes 2020 Annual Report**
 
-Recently ONSWC published a [2020 Annual Report](https://drive.google.com/file/d/1Ce17O0aqIbmZI2Ouy-Z_8WGK038uOsQv/view?usp=sharing). In the report they describe plans to convert the Briar Chapel WWTP from extended aeration to diffused aeration, fully enclose the tanks that are the suspected sources of odor and add a biofilter to process these odors – all as part of the plant expansion.
+Recently ONSWC published a [2020 Annual Report](https://www.briarchapellife.com/ResourceCenter/Download/44435/onswc%202020%20wastewater%20annual%20report?doc_id=2887236&print=1&view=1). In the report they describe plans to convert the Briar Chapel WWTP from extended aeration to diffused aeration, fully enclose the tanks that are the suspected sources of odor and add a biofilter to process these odors – all as part of the plant expansion.
 
 We are encouraged to hear these plans, but have not yet seen a permit modification request to NCDEQ that would be required to execute these plans. We are checking with NCDEQ and hope to find confirmation that ONSWC is planning to include odor control measures with the plant expansion.
 
@@ -40,7 +40,7 @@ Here’s the latest information we have on the status of the work outlined in th
 
 · NCDEQ is reviewing three additional permit modification requests from ONSWC that would convert some existing spray irrigation from potable to reclaimed water (e.g. Encore residential homes, homes in the Wildwind area and Sports Courts) and allows construction of some additional spray irrigation fields (area north and south of Western pond and in common areas within Encore and behind Cliffdale homes). If approved, this would increase our spray irrigation capacity to 521,454 gpd.
 
-· The Tri-Party Council met on February 9th 2021. The [minutes for this meeting](https://drive.google.com/file/d/1xVQWDgY5sfXblUw-mOT0_bXgChfRtFeT/view?usp=sharing) have been posted. The next meeting is scheduled on March 9th 2021.
+· The Tri-Party Council met on February 9th 2021. The [minutes for this meeting](https://www.briarchapellife.com/ResourceCenter/Download/44435/2021029%20tpc%20mtg%20report%20final?doc_id=2881337&print=1&view=1) have been posted. The next meeting is scheduled on March 9th 2021.
 
 **Documenting our Concerns**
 
