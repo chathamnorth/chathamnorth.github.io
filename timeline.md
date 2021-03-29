@@ -278,3 +278,9 @@ January 20th, 2021 – Large spray irrigation spill due to pipe break during con
 February 3rd, 2021 – BCCA announces that ONSWC has stopped approving new sewer connections to new homes under construction until the spray field permits are approved or other previously permitted spray areas are certified.
 
 February 15th, 2021 – NCDEQ issues renewal for [Permit WQ0028552](https://edocs.deq.nc.gov/WaterResources/DocView.aspx?id=1620516&dbid=0&repo=WaterResources) which increases spray irrigation capacity to 237,535 gpd with the addition of three new spray fields that have been certified. With this approval, ONSWC begins approving new sewer connections to the Briar Chapel WWTP.
+
+March 8th 2021 – ONSWC submits [Motion to Increase Connection Fees](https://starw1.ncuc.net/NCUC/ViewFile.aspx?Id=3ae4305f-ecc7-48fb-98f9-de5d1e84c4bb) to NCUC requesting an increase to connection fees for new homes and commercial development from $1,500 to $4,000. This increase is being requested to cover a portion of the WWTP expansion costs. This expansion is required to complete this new development.
+
+March 19th 2021 – NCDEQ issues revision for [Permit WQ0028552](https://edocs.deq.nc.gov/WaterResources/DocView.aspx?id=1684198&dbid=0&repo=WaterResources) which increases spray irrigation capacity to 250,000 gpd with conversion to some existing spray fields to dedicated utilization.
+
+March 22nd 2021 – StopChathamNorth submits [consumer position letter](https://starw1.ncuc.net/NCUC/ViewFile.aspx?Id=0f1ee0e3-889f-4878-841e-b1fe3f349fe7) to NCUC in support of the connection fee increase motion which ONSWC is requested. SCN supports having the new development which is driving the expansion pay increased connection fees to offset the expansion costs for existing customers.
