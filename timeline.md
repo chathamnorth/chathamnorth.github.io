@@ -288,3 +288,5 @@ March 22nd 2021 – StopChathamNorth submits [consumer position letter](https://
 March 31st, 2021 – ONSWC submits [permit modification for WQ0028552](https://edocs.deq.nc.gov/WaterResources/DocView.aspx?id=1703281&dbid=0&repo=WaterResources) for odor control improvements to the Briar Chapel WWTP.
 
 April 12th, 2021 – SCN submits [public comment letter](https://drive.google.com/file/d/1DfRupbkNs4r6L4WlWSyEZmK4Frubjca7/view?usp=sharing) supporting the permit modification request for odor control improvements to the Briar Chapel WWTP.
+
+April 19th, 2021 – NCUC posts [order approving connection fee rate increase for new customers](https://starw1.ncuc.net/NCUC/ViewFile.aspx?Id=dc611cfa-63fc-4423-bcdf-e2cd4b3bb421) of the Briar Chapel WWTP. This rate increase will help offset the cost of the WWTP expansion.
