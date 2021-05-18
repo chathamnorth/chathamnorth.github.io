@@ -290,3 +290,5 @@ March 31st, 2021 – ONSWC submits [permit modification for WQ0028552](https://e
 April 12th, 2021 – SCN submits [public comment letter](https://drive.google.com/file/d/1DfRupbkNs4r6L4WlWSyEZmK4Frubjca7/view?usp=sharing) supporting the permit modification request for odor control improvements to the Briar Chapel WWTP.
 
 April 19th, 2021 – NCUC posts [order approving connection fee rate increase for new customers](https://starw1.ncuc.net/NCUC/ViewFile.aspx?Id=dc611cfa-63fc-4423-bcdf-e2cd4b3bb421) of the Briar Chapel WWTP. This rate increase will help offset the cost of the WWTP expansion.
+
+May 5th 2021 – [Brookfield Residential Properties announces plans to acquire Newland](https://www.globenewswire.com/news-release/2021/05/05/2223465/0/en/Brookfield-Residential-to-acquire-Newland-combining-two-leading-land-developers-to-scale-for-growth-in-key-housing-markets-across-the-U-S.html#:\~:text=COSTA%20MESA%2C%20Calif.%2C%20May,%2Dplanned%20community%20developers%2C%20Newland) Communities – sale to be completed by June 1, 2021.
