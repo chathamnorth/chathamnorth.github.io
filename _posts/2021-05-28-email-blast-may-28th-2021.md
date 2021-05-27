@@ -48,6 +48,10 @@ We understand that when SCN announced the acquisition in our May 16th email, the
 
 Brookfield Residential is a leading North American homebuilder and land developer. They are owned by Brookfield Asset Management which has $600 billion in assets under management, including extensive investments inland. While no further information has been published by Brookfield Residential or Newland, we did find an industry assessment that explains in more detail the potential benefits for Brookfield Residential of this acquisition. [Industry assessment of acquisition.](https://www.thebuildersdaily.com/brookfield-masterstroke-lands-newland-crown-jewel-mpcs/)
 
+**April Non-Discharge Monitoring Report (nDMR)**
+
+NCDEQ posted the [April nDMR](https://edocs.deq.nc.gov/WaterResources/DocView.aspx?id=1821901&dbid=0&repo=WaterResources&cr=1) for the Briar Chapel WWTP. This report showed that in April the Briar Chapel WWTP processed on average 239,167 gpd (in April permitted capacity was 250,000 gpd). The plant exceeded daily maximum and monthly maximum limits on total suspended solids (TSS) which will likely result in a Notice of Violation (NOV).
+
 **Status Update on Tri-Party Agreement**
 
 Here’s the latest information we have on the status of the work outlined in the Tri-Party Agreement:
