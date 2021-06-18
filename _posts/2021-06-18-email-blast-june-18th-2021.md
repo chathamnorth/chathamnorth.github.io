@@ -2,7 +2,7 @@
 layout: post
 title: Email Blast - June 18th 2021
 sub_heading: ''
-date: 2021-06-18 11:00:00 +0000
+date: 2021-06-18 12:00:00 +0000
 tags: []
 banner_image: ''
 related_posts: []
