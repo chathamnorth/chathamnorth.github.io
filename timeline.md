@@ -291,4 +291,18 @@ April 12th, 2021 – SCN submits [public comment letter](https://drive.google.co
 
 April 19th, 2021 – NCUC posts [order approving connection fee rate increase for new customers](https://starw1.ncuc.net/NCUC/ViewFile.aspx?Id=dc611cfa-63fc-4423-bcdf-e2cd4b3bb421) of the Briar Chapel WWTP. This rate increase will help offset the cost of the WWTP expansion.
 
+April 27th, 2021 - StopChathamNorth received Articles of Incorporation from the NC Secretary of State and was then officially recognized by the IRS as a non-profit 501(c)(4) social welfare association.
+
 May 5th 2021 – [Brookfield Residential Properties announces plans to acquire Newland](https://www.globenewswire.com/news-release/2021/05/05/2223465/0/en/Brookfield-Residential-to-acquire-Newland-combining-two-leading-land-developers-to-scale-for-growth-in-key-housing-markets-across-the-U-S.html#:\~:text=COSTA%20MESA%2C%20Calif.%2C%20May,%2Dplanned%20community%20developers%2C%20Newland) Communities – sale to be completed by June 1, 2021.
+
+May 20th, 2021 - [NCDEQ issued ONSWC a Notice of Violation](https://edocs.deq.nc.gov/WaterResources/DocView.aspx?id=1879055&dbid=0&repo=WaterResources) for a sewage spill that occurred April 12th from the manhole located at Great Ridge Parkway and Copperleaf Avenue.
+
+May 24th, 2021 - [NCDEQ issued a revised final permit](https://edocs.deq.nc.gov/WaterResources/DocView.aspx?id=1817646&dbid=0&repo=WaterResources) for the Briar Chapel WWTP and spray irrigation system which approved the odor control improvements that ONSWC requested into the WWTP expansion scheduled to be completed by end of 2021.
+
+June 1st, 2021 - Brookfield Residential closed on their acquisition of Newland, the developer of Briar Chapel.
+
+July 14th, 2021 – Major discharge from the irrigation system resulted in 345,000 gallons of reclaimed water discharged on Briar Chapel property in a wooded area off Catullo Road.
+
+July 29th, 2021 - Chatham County posted an [application by Congruus](https://www.chathamcountync.gov/government/departments-programs/planning/rezonings-subdivision-cases/2021-items/fearrington-preserve-congruus-cco-text-and-map-amendment) for Fearrington Preserve for an extension to the Compact Community Ordinance (CCO) map. In the application, they state their intention to request a contiguous service area extension to Briar Chapel’s WW system.
+
+August 5th, 2021 - NCDEQ issued a [Notice of Violation (NOV)](https://edocs.deq.nc.gov/WaterResources/DocView.aspx?id=1940519&dbid=0&repo=WaterResources) for an unauthorized irrigation discharge of 345,000 gallons that discharged on Briar Chapel property and into Pokeberry Creek (surface waters).
