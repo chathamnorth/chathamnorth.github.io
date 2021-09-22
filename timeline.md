@@ -306,3 +306,5 @@ July 14th, 2021 – Major discharge from the irrigation system resulted in 345,0
 July 29th, 2021 - Chatham County posted an [application by Congruus](https://www.chathamcountync.gov/government/departments-programs/planning/rezonings-subdivision-cases/2021-items/fearrington-preserve-congruus-cco-text-and-map-amendment) for Fearrington Preserve for an extension to the Compact Community Ordinance (CCO) map. In the application, they state their intention to request a contiguous service area extension to Briar Chapel’s WW system.
 
 August 5th, 2021 - NCDEQ issued a [Notice of Violation (NOV)](https://edocs.deq.nc.gov/WaterResources/DocView.aspx?id=1940519&dbid=0&repo=WaterResources) for an unauthorized irrigation discharge of 345,000 gallons that discharged on Briar Chapel property and into Pokeberry Creek (surface waters).
+
+September 20th, 2021 – CC BOC approves launch of Wastewater Study Commission for NE Chatham County.
