@@ -308,3 +308,5 @@ July 29th, 2021 - Chatham County posted an [application by Congruus](https://www
 August 5th, 2021 - NCDEQ issued a [Notice of Violation (NOV)](https://edocs.deq.nc.gov/WaterResources/DocView.aspx?id=1940519&dbid=0&repo=WaterResources) for an unauthorized irrigation discharge of 345,000 gallons that discharged on Briar Chapel property and into Pokeberry Creek (surface waters).
 
 September 20th, 2021 – CC BOC approves launch of Wastewater Study Commission for NE Chatham County.
+
+September 28th, 2021 – ONSWC has their 34th sewage spill between Tyner Loop and the Dog Park off Great Ridge Parkway in the area where the forcemain bypass connects to the SD-East force main.
