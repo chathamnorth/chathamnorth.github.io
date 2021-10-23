@@ -310,3 +310,5 @@ August 5th, 2021 - NCDEQ issued a [Notice of Violation (NOV)](https://edocs.deq.
 September 20th, 2021 – CC BOC approves launch of Wastewater Study Commission for NE Chatham County.
 
 September 28th, 2021 – ONSWC has their 34th sewage spill between Tyner Loop and the Dog Park off Great Ridge Parkway in the area where the forcemain bypass connects to the SD-East force main.
+
+October 18th, 2021 – Chatham County Board of Commissioners (CCBOC) votes 4-0 to make [new rules for public hearings](https://chathamnc.legistar.com/View.ashx?M=F&ID=9886207&GUID=79653E62-85CC-4DBD-8DD0-8AB91B0853AA) that limit the public input allowed for Zoning, Text Amendment and Major Subdivision applications.
